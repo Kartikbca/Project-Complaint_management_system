@@ -1,5 +1,3 @@
-# Project-Complaint_management_system
-
 
 # Complaint Management System 📝
 
