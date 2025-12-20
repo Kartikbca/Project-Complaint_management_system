@@ -33,7 +33,26 @@ A web-based Complaint Management System developed using **PHP and MySQL** that a
 
 ## 📂 Project Structure
 
-complaint-management-system/ │ ├── admin/ │   └── view_complaints.php │ ├── auth/ │   ├── login.php │   ├── register.php │   └── logout.php │ ├── user/ │   ├── dashboard.php │   ├── add_complaint.php │   └── my_complaints.php │ ├── config/ │   └── db.php │ ├── screenshots/ │   ├── login.png │   └── dashboard.png │ ├── database.sql ├── index.php ├── style.css ├── requirements.txt └── README.md
+complaint-management-system/ │ 
+├── admin/ │   
+     └── view_complaints.php │ 
+├── auth/ │   
+      ├── login.php │   
+      ├── register.php │   
+      └── logout.php │ 
+├── user/ │   
+     ├── dashboard.php │   
+     ├── add_complaint.php │   
+     └── my_complaints.php │ 
+├── config/ │   
+     └── db.php │ 
+├── screenshots/ │   
+     ├── login.png │   
+     └── dashboard.png │ 
+├── database.sql 
+├── index.php 
+├── style.css 
+└── README.md
 
 ---
 
