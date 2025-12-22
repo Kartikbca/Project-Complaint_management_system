@@ -89,7 +89,7 @@ http://localhost/complaint-management-system
 ---
 
 ## 👨‍💻 Author
-Developed by [Kartik ahir]
+Developed by Kartik ahir.
 
 ---
 
